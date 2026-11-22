@@ -1,3 +1,8 @@
+# https://github.com/elliottscarlett-ufl/lab11-ES-EM.git
+# Partner 1: Elliott Scarlett
+# Partner 2: Elijah Morgan
+
+
 import math
 
 
